@@ -111,3 +111,8 @@ button:hover {
 	color: black;
 	border: 1px solid #000;
 }
+
+#container button:hover {
+	border: 1px solid #d7b98e;
+	transition: 0.3s;
+}
